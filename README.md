@@ -1,6 +1,6 @@
 # collab-test
 
-(1) Cette ligne a été mise en place par auer808. Il y en avait encore une plus bas mise en place à la même étape mais auer404 propose de l'enlever.
+(1) Cette ligne a été mise en place par auer808. (5c) Il y en avait encore une plus bas mise en place à la même étape mais auer404 propose de l'enlever. Cela va provoquer un CONFLIT !
 
 (2) Cette ligne a été mise en place par auer404, sur son fork du projet (3) puis modifiée par auer808.
 
