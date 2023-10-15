@@ -1,8 +1,8 @@
 # collab-test
 
-(1) Cette ligne a été mise en place par auer808. (5c) Il y en avait encore une plus bas mise en place à la même étape mais auer404 propose de l'enlever. Cela va provoquer un CONFLIT ! auer404 va donc passer par une seconde branche sur son fork, afin de garder en branche principale une version à jour du projet (vis-à-vis de auer808). Les résolutions de conflit seront un peu plus simples de cette manière.
-
 (5b) auer808 : Blablabla
+
+(1) Cette ligne a été mise en place par auer808. (5c) Il y en avait encore une plus bas mise en place à la même étape mais auer404 propose de l'enlever. Cela va provoquer un CONFLIT ! auer404 va donc passer par une seconde branche sur son fork, afin de garder en branche principale une version à jour du projet (vis-à-vis de auer808). Les résolutions de conflit seront un peu plus simples de cette manière.
 
 (2) Cette ligne a été mise en place par auer404, sur son fork du projet (3) puis modifiée par auer808.
 
