@@ -32,6 +32,8 @@
 
 ---
 
+Souci : cette branche inclue les séparateurs mais pas la numérotation en gras.
+
 (4b) Pendant que auer404 travaille sur une modification de son côté, auer808 a ajouté cette ligne...
 
 ---
