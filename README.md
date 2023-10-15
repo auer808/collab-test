@@ -5,3 +5,5 @@
 (2) Cette ligne a été mise en place par auer404, sur son fork du projet (3) puis modifiée par auer808.
 
 (1) Cette ligne a également été mise en place par auer808.
+
+(4b) Pendant que auer404 travaille sur une modification de son côté, auer808 a ajouté cette ligne...
